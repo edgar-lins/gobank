@@ -1,0 +1,19 @@
+# Binários
+/bin/
+*.exe
+*.dll
+*.so
+
+# Variáveis de ambiente
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+
+# Logs
+*.log
